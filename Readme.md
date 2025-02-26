@@ -1,4 +1,3 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Kevin</h1>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Blockchain+Engineer;Software+Engineer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35" alt="Typing"/>
 </p>
