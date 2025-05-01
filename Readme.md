@@ -1,114 +1,61 @@
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Blockchain+Engineer;Software+Engineer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35" alt="Typing"/>
-</p>
-<p align="center">
-  <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
-</p>
-<h2 align="center">👨🏻‍💻 About me:</h2>
-<p align="justify">Enthusiastic engineer with a strong passion for technology and innovation. My journey is guided by an endless curiosity and a desire to explore new frontiers in programming. I thrive on solving intricate problems and constantly seek opportunities to challenge myself and elevate my skills to new heights. My interests includes:</p>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Blockchain;Artificial+Intelligence;Machine+Learning;Data+Science;Web+Development" width="auto" height="35" alt="Typing"/>
-</p>
-<br>
+<h3 align="center">🚀 Full Stack Blockchain Engineer</h3>
 
-## 🌟 My Main Offers
+---
 
-Here are some of the key services I provide:
+## 🧠 About Me
 
-- **Full-Stack Development**: Responsive frontends (React, Vue, Angular) + Scalable backends (Django, Node.js, Laravel)
-- **Blockchain & Smart Contract Solutions**: Secure smart contracts, token development, dApps, and cross-chain interoperability
-- **NFT & Web3 Integration**: NFT development, marketplace integration, and Web3 capabilities for decentralized apps
-- **AI, Automation & Trading Bots**: AI-driven solutions for process optimization and customizable trading bots
+✨ I’m a Full Stack Blockchain Engineer with expertise in building secure, scalable, and innovative Web3 products including DeFi platforms, NFT marketplaces, NFT games, and DAO infrastructures.
 
-## ⚡ Technical Skills & Tools
+- 🔹 6+ years of experience in Smart Contracts, Tokenomics, and Web3 Dev
+- 🔹 Specialist in Solidity, Rust, Python, React, Typescript and advanced DApp architecture
+- 🔹 Built and deployed dozens of full-stack Web3 products
+- 🔹 Open to remote opportunities across the globe
 
-<table>
-  <tr>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45" />
-      <br />&nbsp;&nbsp;JavaScript&nbsp;&nbsp;
-    </td>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="45" height="45" />
-      <br />&nbsp;&nbsp;TypeScript&nbsp;
-    </td>
-    <td align="center" style="min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45" />
-        <br />&nbsp;Python&nbsp;&nbsp;
-      </td>
-    <td align="center" style="min-width: 90px;">
-    <img src="https://skillicons.dev/icons?i=go" alt="Go" width="45" height="45" />
-    <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
-    <td align="center" style="min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="45" height="45" />
-        <br />&nbsp;&nbsp;&nbsp;&nbsp;Rust&nbsp;&nbsp;&nbsp;&nbsp;
-      </td>
-      <td align="center" style="min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="45" height="45" />
-        <br />Solidity
-      </td>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45" />
-      <br />&nbsp;&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="45" height="45" />
-      <br />&nbsp;&nbsp;Next.js&nbsp;&nbsp;
-    </td>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="45" height="45" />
-      <br />&nbsp;&nbsp;&nbsp;&nbsp;Vue&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>    
-    
-  </tr>
-  <tr>
-    <td align="center" style="min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45" />
-        <br />&nbsp;&nbsp;Node.js&nbsp;&nbsp;
-      </td>
-    <td align="center" style="min-width: 90px;">
-    <img src="https://skillicons.dev/icons?i=django" alt="Django" width="45" height="45" />
-    <br />&nbsp;&nbsp;Django&nbsp;&nbsp;
-    </td>
-    <td align="center" style="min-width: 90px;">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="45" height="45" />
-    <br />PostgreSQL
-    </td>
-    <td align="center" style="min-width: 90px;">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
-    <br />&nbsp;&nbsp;MySQL&nbsp;&nbsp;
-    </td>
-    <td align="center" style="min-width: 90px;">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45" />
-    <br />&nbsp;MongoDB&nbsp;
-    </td>
-    <td align="center" style="min-width: 90px;">
-    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="45" height="45" />
-    <br />&nbsp;&nbsp;Redis&nbsp;&nbsp;
-    </td>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
-      <br />&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
-    <td align="center" style="min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45" />
-        <br />&nbsp;Docker&nbsp;
-      </td>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="45" height="45" />
-      <br />&nbsp;&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
-  </tr>
-</table>
+---
 
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img alt="Contributions" title="Contributions" src="https://github.com/jahidnation/jahidnation/blob/contributions/snake.svg"/>
-</p>
+### 🔗 Blockchain Networks
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum)
+![Binance Smart Chain](https://img.shields.io/badge/BSC-F0B90B?style=flat-square&logo=binance)
+![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=flat-square&logo=avalanche)
+![Solana](https://img.shields.io/badge/Solana-000000?style=flat-square&logo=solana)
+![Cosmos](https://img.shields.io/badge/Cosmos-1C1C1C?style=flat-square&logo=cosmos)
+![NEAR](https://img.shields.io/badge/NEAR-000000?style=flat-square&logo=near)
+![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=flat-square&logo=polkadot)
+![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger-2A5D84?style=flat-square&logo=hyperledger)
 
-<div>
-  <a href="#">
-      <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
-  </a>
-</div>
+### 📜 Smart Contract Development
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=ethereum)
+![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust)
+![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=flat-square&logo=hardhat)
+![Truffle](https://img.shields.io/badge/Truffle-3f3f3f?style=flat-square&logo=truffle)
+![Anchor](https://img.shields.io/badge/Anchor-262626?style=flat-square)
+![Cargo](https://img.shields.io/badge/Cargo-000000?style=flat-square&logo=rust)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-353535?style=flat-square)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square)
+
+### 🧪 Smart Contract Auditing
+- ✅ Code Audits & Vulnerability Analysis
+- 🚀 Gas Optimization Techniques
+
+### 💹 DeFi, Tokenomics & Cross-chain
+- 🔸 Staking, Liquidity Pools, Token Swaps
+- 🔸 Cross-chain Bridges & Interoperability
+- 🔸 DAO Governance Models
+- 🔸 NFT Marketplace & NFT Game Logic
+
+### 💻 DApp & Web3 Development
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-ea2845?style=flat-square&logo=nestjs)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+
+### 🧠 AI & Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+![Langchain](https://img.shields.io/badge/Langchain-000?style=flat-square)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs)
+![The Graph](https://img.shields.io/badge/TheGraph-0062FF?style=flat-square&logo=the-graph)
+![Web3 Storage](https://img.shields.io/badge/Web3Storage-0B0B0B?style=flat-square)
