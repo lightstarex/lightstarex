@@ -6,7 +6,7 @@
 
 ✨ I’m a Full Stack Blockchain Engineer with expertise in building secure, scalable, and innovative Web3 products including DeFi platforms, NFT marketplaces, NFT games, and DAO infrastructures.
 
-- 🔹 6+ years of experience in Smart Contracts, Tokenomics, and Web3 Dev
+- 🔹 Rich experience in Smart Contracts, Tokenomics, and Web3 Dev
 - 🔹 Specialist in Solidity, Rust, Python, React, Typescript and advanced DApp architecture
 - 🔹 Built and deployed dozens of full-stack Web3 products
 - 🔹 Open to remote opportunities across the globe
